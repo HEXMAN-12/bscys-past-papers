@@ -4,76 +4,53 @@ Welcome to the **BS Cyber Security Past Papers Repository**! This is a collabora
 
 ## Directory
 
-# Directory Listing
+### Semester-I
 
-<details>
-<summary>### Semester-I</summary>
-
-<details>
-<summary>#### Discrete Structures</summary>
+#### Discrete Structures
 
 - [Discrete Structures Final.pdf](./Semester-I/Discrete%20Structures/Discrete%20Structures%20Final.pdf)
 - [Discrete Structures Mid-Semester Exam Solved F-21.pdf](./Semester-I/Discrete%20Structures/Discrete%20Structures%20Mid-Semester%20Exam%20Solved%20F-21.pdf)
 
-</details>
-<details>
-<summary>#### English Comprehension</summary>
+#### English Comprehension
 
 - [English_Final_F21.pdf](./Semester-I/English%20Comprehension/English_Final_F21.pdf)
 - [English_Mid_F21.pdf](./Semester-I/English%20Comprehension/English_Mid_F21.pdf)
 
-</details>
-<details>
-<summary>#### ICT</summary>
+#### ICT
 
 - [ICT_Final_F21.pdf](./Semester-I/ICT/ICT_Final_F21.pdf)
 - [ICT_Mid_F21.pdf](./Semester-I/ICT/ICT_Mid_F21.pdf)
 
-</details>
-<details>
-<summary>#### Intro to Cyber</summary>
+#### Intro to Cyber
 
 - [IntrotoCyber_Final.pdf](./Semester-I/Intro%20to%20Cyber/IntrotoCyber_Final.pdf)
 
-</details>
-<details>
-<summary>#### Islamic Studies</summary>
+#### Islamic Studies
 
 - [HU-124 Islamic Studies.pdf](./Semester-I/Islamic%20Studies/HU-124%20Islamic%20Studies.pdf)
 - [islamic (sir asim).pdf](<./Semester-I/Islamic%20Studies/islamic%20(sir%20asim).pdf>)
 
-</details>
-<details>
-<summary>#### Pakistan Studies</summary>
+#### Pakistan Studies
 
 - [PST_Final_F21.pdf](./Semester-I/Pakistan%20Studies/PST_Final_F21.pdf)
 - [PST_Mid_F21.pdf](./Semester-I/Pakistan%20Studies/PST_Mid_F21.pdf)
 
-</details>
-<details>
-<summary>#### Programming Fundamentals</summary>
+#### Programming Fundamentals
 
 - [PF_Final_F21.pdf](./Semester-I/Programming%20Fundamentals/PF_Final_F21.pdf)
 - [PF_Mid_F21.pdf](./Semester-I/Programming%20Fundamentals/PF_Mid_F21.pdf)
 - [pf paperF23.pdf](./Semester-I/Programming%20Fundamentals/pf%20paperF23.pdf)
 
-</details>
-</details>
+### Semester-II
 
-<details>
-<summary>### Semester-II</summary>
-
-<details>
-<summary>#### Applied Physics</summary>
+#### Applied Physics
 
 - [AP-1.png](./Semester-II/Applied%20Physics/AP-1.png)
 - [AP-2.png](./Semester-II/Applied%20Physics/AP-2.png)
 - [AppliedPhysics-1.png](./Semester-II/Applied%20Physics/AppliedPhysics-1.png)
 - [AppliedPhysics-2.png](./Semester-II/Applied%20Physics/AppliedPhysics-2.png)
 
-</details>
-<details>
-<summary>#### Digital Logic Design</summary>
+#### Digital Logic Design
 
 - [DLD Theory Final F21.pdf](./Semester-II/Digital%20Logic%20Design/DLD%20Theory%20Final%20F21.pdf)
 - [DLD Theory Final F22.pdf](./Semester-II/Digital%20Logic%20Design/DLD%20Theory%20Final%20F22.pdf)
@@ -81,31 +58,22 @@ Welcome to the **BS Cyber Security Past Papers Repository**! This is a collabora
 - [DLD-Final S-24.pdf](./Semester-II/Digital%20Logic%20Design/DLD-Final%20S-24.pdf)
 - [DLD_Lab_Final.jpeg](./Semester-II/Digital%20Logic%20Design/DLD_Lab_Final.jpeg)
 
-</details>
-<details>
-<summary>#### Linear Algebra</summary>
+#### Linear Algebra
 
 - [LinearAlgebra-Final S-24.pdf](./Semester-II/Linear%20Algebra/LinearAlgebra-Final%20S-24.pdf)
 - [LinearAlgebra_Final F21.jpeg](./Semester-II/Linear%20Algebra/LinearAlgebra_Final%20F21.jpeg)
 
-</details>
-<details>
-<summary>#### Object Oriented Programming</summary>
+#### Object Oriented Programming
 
 - [OOP MT F23 S-24.pdf](./Semester-II/Object%20Oriented%20Programming/OOP%20MT%20F23%20S-24.pdf)
 - [OOP-Final S-24 (CYS) .pdf](<./Semester-II/Object%20Oriented%20Programming/OOP-Final%20S-24%20(CYS)%20.pdf>)
 
-</details>
-<details>
-<summary>#### Software Engineering</summary>
+#### Software Engineering
 
 - [SoftwareEngg1.jpeg](./Semester-II/Software%20Engineering/SoftwareEngg1.jpeg)
 - [SoftwareEngg2.jpeg](./Semester-II/Software%20Engineering/SoftwareEngg2.jpeg)
 
-</details>
-</details>
-
-_Updated on 2025-01-08 03:15:00_
+_Updated on 2025-01-08 02:54:04_
 
 _Note: This file list is auto-generated. Don't update paths manually._
 
